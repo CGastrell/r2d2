@@ -1,0 +1,22 @@
+{
+  "name": "r2d2",
+  "version": "0.0.1",
+  "description": "node test with play-sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgastrell/r2d2.git"
+  },
+  "author": "Christian Gastrell <cgastrell@gmail.com> (https://github.com/CGastrell)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgastrell/r2d2/issues"
+  },
+  "homepage": "https://github.com/cgastrell/r2d2#readme",
+  "dependencies": {
+    "play-sound": "0.0.7"
+  }
+}
