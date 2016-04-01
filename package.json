@@ -1,7 +1,7 @@
 {
   "name": "r2d2",
-  "version": "0.0.2",
-  "description": "node test with play-sound",
+  "version": "0.0.3",
+  "description": "Plays a random sound as a notification from console or cli",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
