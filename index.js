@@ -9,9 +9,9 @@ Notifier = function(){
   this.player = require('play-sound')();
 
   this.sounds = [
-    path.resolve('assets/n1.mp3'),
-    path.resolve('assets/n2.mp3'),
-    path.resolve('assets/n3.mp3')
+    path.resolve(__dirname,'assets/n1.mp3'),
+    path.resolve(__dirname,'assets/n2.mp3'),
+    path.resolve(__dirname,'assets/n3.mp3')
   ];
 };
 
