@@ -1,6 +1,6 @@
 {
   "name": "r2d2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node test with play-sound",
   "main": "index.js",
   "scripts": {
