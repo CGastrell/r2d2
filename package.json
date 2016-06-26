@@ -1,6 +1,6 @@
 {
   "name": "r2d2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Plays a random sound as a notification from console or cli",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/cgastrell/r2d2/issues"
   },
   "homepage": "https://github.com/cgastrell/r2d2#readme",
-  "dependencies": {
-    "play-sound": "0.0.7"
-  }
+  "dependencies": {}
 }
