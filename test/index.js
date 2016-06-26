@@ -1,6 +1,4 @@
-var NotifierClass = require('../index');
-
-var notifier = new NotifierClass();
+var notifier = require('../index');
 
 console.log('playing sound');
 notifier.headsUp(function(err){
